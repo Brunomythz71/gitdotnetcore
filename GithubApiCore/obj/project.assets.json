@@ -5311,11 +5311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.santos\\source\\repos\\GitHubAPI\\GithubApiCore\\GithubApiCore.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
       "projectName": "GithubApiCore",
-      "projectPath": "C:\\Users\\bruno.santos\\source\\repos\\GitHubAPI\\GithubApiCore\\GithubApiCore.csproj",
+      "projectPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
       "packagesPath": "C:\\Users\\bruno.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.santos\\source\\repos\\GitHubAPI\\GithubApiCore\\obj\\",
+      "outputPath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

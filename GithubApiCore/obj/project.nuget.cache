@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKZ/NtS1IWgRR/7K6A/01Ybi3uG4oSdrW1SgTCiRk9U9shboFh3jSKMqPlPhIk5K7t25GfSAj+n1y1gKQzl21A==",
+  "dgSpecHash": "42gbq8SSD1Ah3faTWCSMbGiXmsIZg45Fv9jRBTr5Sj7csE6ZxkXDFBQ8Soil9upQ/A5OezpNa/OdRviqUvBQvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.santos\\source\\repos\\GitHubAPI\\GithubApiCore\\GithubApiCore.csproj",
+  "projectFilePath": "C:\\Users\\bruno.santos\\source\\repos\\GitDotnetcore\\gitdotnetcore\\GithubApiCore\\GithubApiCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno.santos\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\bruno.santos\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
